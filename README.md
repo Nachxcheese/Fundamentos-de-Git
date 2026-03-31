@@ -22,8 +22,8 @@ Es ideal como punto de partida para:
 
 2. Clona este repositorio:
 
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-
 3. Ejecuta el script
 python main.py
+
+git clone URL del repositorio
+cd tu-repo
