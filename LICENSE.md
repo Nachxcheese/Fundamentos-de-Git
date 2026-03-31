@@ -28,4 +28,3 @@ lo mismo, sujeto a las siguientes condiciones:
 
 - [Licencia Apache 2.0 oficial (en inglés)](https://www.apache.org/licenses/LICENSE-2.0)  
 - [Resumen de la licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0#apply)
-

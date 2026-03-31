@@ -4,7 +4,6 @@ Gracias por tu interés en contribuir a este proyecto 🚀
 
 ---
 
-
 ## 🔀 Flujo de trabajo
 
 Este proyecto utiliza un flujo de ramas simplificado:
